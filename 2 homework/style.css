@@ -1,0 +1,32 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background:darkmagenta;
+    color: black;
+    font-size: 30px;
+  }
+
+  .about{
+      background:darkmagenta;
+      color: black;
+      font-size: 40px;
+      display:block;
+      margin: 150p x;
+
+  }
+
+  .contact{
+    background:darkmagenta;
+    color: black;
+    font-size: 40px;
+    display:block;
+    margin: 150px;
+
+}
+.para1 {
+    font-size: 30px;
+    display:block;
+    margin: 150px;
+    padding-top: 0px;
+
+}
